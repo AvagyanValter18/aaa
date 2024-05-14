@@ -173,3 +173,5 @@ let x = function hello(){
 } 
 
 x();
+
+let y = 4;
